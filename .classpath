@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="ug_hibernate/src/main/java"/>
-	<classpathentry kind="output" path="ug_hibernate/target/classes"/>
+	<classpathentry kind="src" path="Mesero_hibernate/src/main/java"/>
+	<classpathentry kind="output" path="Mesero_hibernate/target/classes"/>
 </classpath>
